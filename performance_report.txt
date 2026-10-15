@@ -1,0 +1,266 @@
+========== PERFORMANCE REPORT ==========
+Report date and time: 15-10-2026 15:42:53
+Total vehicles: 6257
+
+VEHICLE COUNTS:
+North: 23 vehicles
+South: 543 vehicles
+East: 5646 vehicles
+West: 45 vehicles
+
+ESTIMATED WAITING TIMES:
+North: 41.0 seconds (adaptive strategy)
+South: 31.0 seconds (adaptive strategy)
+East: 31.0 seconds (adaptive strategy)
+West: 39.5 seconds (adaptive strategy)
+
+===== FIXED-TIME STRATEGY =====
+North: Green for 30 seconds | Estimated wait: 49.5 seconds
+South: Green for 30 seconds | Estimated wait: 49.5 seconds
+East: Green for 30 seconds | Estimated wait: 49.5 seconds
+West: Green for 30 seconds | Estimated wait: 49.5 seconds
+
+===== ADAPTIVE STRATEGY =====
+North: Green for 10 seconds | Estimated wait: 41.0 seconds
+South: Green for 30 seconds | Estimated wait: 31.0 seconds
+East: Green for 30 seconds | Estimated wait: 31.0 seconds
+West: Green for 13 seconds | Estimated wait: 39.5 seconds
+
+===== PERFORMANCE COMPARISON =====
+Fixed-time weighted average wait: 49.5 seconds per vehicle
+Adaptive weighted average wait: 31.1 seconds per vehicle
+Estimated waiting-time reduction: 37.2%
+
+NOTE:
+Waiting times are simplified estimates based on red-light intervals.
+They are not measurements from real traffic.
+
+========== REPORT COMPLETED ==========
+
+
+============================================================
+
+REPORT GENERATED: 15-10-2026 15:52:43
+
+==========================================
+       TRAFFIC PERFORMANCE REPORT
+==========================================
+
+NOTE: Waiting times are estimates from a simplified model,
+not measurements of real-world traffic.
+
+Total vehicles: 200
+
+VEHICLE COUNTS:
+North Road: 23 vehicles
+South Road: 44 vehicles
+East Road: 55 vehicles
+West Road: 78 vehicles
+
+==========================================
+ADAPTIVE STRATEGY
+==========================================
+Green timings used from the actual simulation:
+North Road: Green for 10 seconds
+South Road: Green for 13 seconds
+East Road: Green for 16 seconds
+West Road: Green for 23 seconds
+Adaptive cycle length: 74 seconds
+
+Estimated waiting times:
+North Road: 30.5 seconds
+South Road: 29.0 seconds
+East Road: 27.5 seconds
+West Road: 24.0 seconds
+
+==========================================
+FIXED-TIME STRATEGY
+==========================================
+Green time per road: 30 seconds
+Fixed cycle length: 132 seconds
+
+Estimated waiting times:
+North Road: 49.5 seconds
+South Road: 49.5 seconds
+East Road: 49.5 seconds
+West Road: 49.5 seconds
+
+==========================================
+PERFORMANCE COMPARISON
+==========================================
+Fixed-time weighted average wait: 49.50 seconds per vehicle
+Adaptive weighted average wait: 26.81 seconds per vehicle
+Estimated waiting-time reduction: 45.8%
+
+==========================================
+
+
+============================================================
+
+REPORT GENERATED: 15-10-2026 15:56:36
+
+==========================================
+       TRAFFIC PERFORMANCE REPORT
+==========================================
+
+NOTE: Waiting times are estimates from a simplified model,
+not measurements of real-world traffic.
+
+Total vehicles: 455
+
+VEHICLE COUNTS:
+North Road: 342 vehicles
+South Road: 43 vehicles
+East Road: 5 vehicles
+West Road: 65 vehicles
+
+==========================================
+ADAPTIVE STRATEGY
+==========================================
+Green timings used from the actual simulation:
+North Road: Green for 45 seconds
+South Road: Green for 10 seconds
+East Road: Green for 10 seconds
+West Road: Green for 10 seconds
+Adaptive cycle length: 87 seconds
+
+Estimated waiting times:
+North Road: 19.5 seconds
+South Road: 37.0 seconds
+East Road: 37.0 seconds
+West Road: 37.0 seconds
+
+==========================================
+FIXED-TIME STRATEGY
+==========================================
+Green time per road: 30 seconds
+Fixed cycle length: 132 seconds
+
+Estimated waiting times:
+North Road: 49.5 seconds
+South Road: 49.5 seconds
+East Road: 49.5 seconds
+West Road: 49.5 seconds
+
+==========================================
+PERFORMANCE COMPARISON
+==========================================
+Fixed-time weighted average wait: 49.50 seconds per vehicle
+Adaptive weighted average wait: 23.85 seconds per vehicle
+Estimated waiting-time reduction: 51.8%
+
+==========================================
+
+
+============================================================
+
+REPORT GENERATED: 15-10-2026 15:57:07
+
+==========================================
+       TRAFFIC PERFORMANCE REPORT
+==========================================
+
+NOTE: Waiting times are estimates from a simplified model,
+not measurements of real-world traffic.
+
+Total vehicles: 238
+
+VEHICLE COUNTS:
+North Road: 43 vehicles
+South Road: 54 vehicles
+East Road: 65 vehicles
+West Road: 76 vehicles
+
+==========================================
+ADAPTIVE STRATEGY
+==========================================
+Green timings used from the actual simulation:
+North Road: Green for 10 seconds
+South Road: Green for 13 seconds
+East Road: Green for 16 seconds
+West Road: Green for 19 seconds
+Adaptive cycle length: 70 seconds
+
+Estimated waiting times:
+North Road: 28.5 seconds
+South Road: 27.0 seconds
+East Road: 25.5 seconds
+West Road: 24.0 seconds
+
+==========================================
+FIXED-TIME STRATEGY
+==========================================
+Green time per road: 30 seconds
+Fixed cycle length: 132 seconds
+
+Estimated waiting times:
+North Road: 49.5 seconds
+South Road: 49.5 seconds
+East Road: 49.5 seconds
+West Road: 49.5 seconds
+
+==========================================
+PERFORMANCE COMPARISON
+==========================================
+Fixed-time weighted average wait: 49.50 seconds per vehicle
+Adaptive weighted average wait: 25.90 seconds per vehicle
+Estimated waiting-time reduction: 47.7%
+
+==========================================
+
+
+============================================================
+
+REPORT GENERATED: 15-10-2026 16:37:35
+
+==========================================
+       TRAFFIC PERFORMANCE REPORT
+==========================================
+
+NOTE: Waiting times are estimates from a simplified model,
+not measurements of real-world traffic.
+
+Total vehicles: 11
+
+VEHICLE COUNTS:
+North Road: 2 vehicles
+South Road: 3 vehicles
+East Road: 4 vehicles
+West Road: 2 vehicles
+
+==========================================
+ADAPTIVE STRATEGY
+==========================================
+Green timings used from the actual simulation:
+North Road: Green for 10 seconds
+South Road: Green for 16 seconds
+East Road: Green for 21 seconds
+West Road: Green for 10 seconds
+Adaptive cycle length: 69 seconds
+
+Estimated waiting times:
+North Road: 28.0 seconds
+South Road: 25.0 seconds
+East Road: 22.5 seconds
+West Road: 28.0 seconds
+
+==========================================
+FIXED-TIME STRATEGY
+==========================================
+Green time per road: 30 seconds
+Fixed cycle length: 132 seconds
+
+Estimated waiting times:
+North Road: 49.5 seconds
+South Road: 49.5 seconds
+East Road: 49.5 seconds
+West Road: 49.5 seconds
+
+==========================================
+PERFORMANCE COMPARISON
+==========================================
+Fixed-time weighted average wait: 49.50 seconds per vehicle
+Adaptive weighted average wait: 25.18 seconds per vehicle
+Estimated waiting-time reduction: 49.1%
+
+==========================================
